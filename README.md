@@ -1,4 +1,4 @@
-# addressbook-jemmic
+# command line addressbook
 
 Address book 
 Build a java application to add, display and remove contacts from an address book.
